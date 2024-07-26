@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/bf6715e6-2c78-48f7-90bf-55a52b66bb3c)
+![image](https://github.com/user-attachments/assets/6ae8b115-13ec-4f70-b83d-4f3ba21aa261)
+
 Welcome to the Sorting Algorithm Visualizer
 
 This interactive tool is designed to help you understand and visualize common sorting algorithms. Whether you're a student learning about algorithms for the first time, a developer refreshing your knowledge, or simply curious about how computers organize data, this visualizer offers a clear and engaging way to explore sorting methods.
